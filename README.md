@@ -7,8 +7,7 @@
   
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine within Azure](https://github.com/Jaden-Padilla/AZURE-VM-S)
-  - [Setting up Active Directory](https://github.com/Jaden-Padilla/azure-network-protocols)
-
+  
 <h2>🤳Connect with me:</h2>
 
 
