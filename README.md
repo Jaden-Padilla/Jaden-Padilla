@@ -1,12 +1,12 @@
 <h1>Hi, I'm Jaden, an <a href="https://www.linkedin.com/in/jaden-padilla-aaa015218/">IT Professional</a/h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+  
+  - <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine within Azure](https://github.com/Jaden-Padilla/AZURE-VM-S)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jaden-Padilla/osticket-prereqs)
-  
-- <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine within Azure](https://github.com/Jaden-Padilla/AZURE-VM-S)
   
 <h2>🤳Connect with me:</h2>
 
